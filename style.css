@@ -1,0 +1,95 @@
+body {
+    background-color: #aeaeae !important;
+    font-family: 'Poiret One', cursive !important;
+}
+
+#mainNavbar {
+    background-color: rgb(114, 1, 95);
+}
+
+#mainNavbar .navbar-brand {
+    color: #ffffff;
+    font-size: 1.7rem;
+}
+
+#mainNavbar .nav-link {
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #CAD3C8;
+}
+
+#mainNavbar .dropdown-menu {
+    background-color:rgb(114, 1, 95);
+}
+
+#mainNavbar .dropdown-item {
+    color: #ffffff;
+}
+
+#mainNavbar .dropdown-item:hover {
+    background-color: rgb(114, 1, 95);
+    color: #CAD3C8;
+}
+
+#mainNavbar #icon {
+    font-size: 1.5rem;
+}
+
+#about p {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1.2rem;
+    color:  rgb(114, 1, 95);
+    
+}
+
+#about img {
+    padding: 15% 15% 15% 15%;
+}
+
+#about h1 {
+    padding: 15% 0 3% 0;
+    color: rgb(114, 1, 95);
+}
+
+#contact img {
+    padding: 15% 15% 15% 15%;
+}
+
+#contact h1 {
+    padding: 15% 0 3% 0;
+    color:  rgb(114, 1, 95);
+}
+
+#contact p {
+    padding-top: 3%;
+    font-size: 1.2rem;
+    color:  rgb(114, 1, 95);
+}
+
+#contact .btn {
+   background-color:  rgb(114, 1, 95);
+   color: #bbbaba;
+}
+
+#contact .btn:hover {
+    background-color: #494949;
+    color: #bbbaba;
+}
+
+#footer {
+    background-color:rgb(114, 1, 95);
+    padding: 10%;
+}
+
+#footer p {
+    color: #ffffff;
+}
+
+#footer #some a{
+    color: #ffffff;
+    font-size: 1.3rem;
+}
